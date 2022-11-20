@@ -1,0 +1,14 @@
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\bin\Debug\netcoreapp3.1\Test_OOP.exe
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\bin\Debug\netcoreapp3.1\Test_OOP.deps.json
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\bin\Debug\netcoreapp3.1\Test_OOP.runtimeconfig.json
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\bin\Debug\netcoreapp3.1\Test_OOP.runtimeconfig.dev.json
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\bin\Debug\netcoreapp3.1\Test_OOP.dll
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\bin\Debug\netcoreapp3.1\Test_OOP.pdb
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.AssemblyInfo.cs
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.dll
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.pdb
+C:\Users\משתמש\Documents\0000ציונט\Test_OOP\Test_OOP\obj\Debug\netcoreapp3.1\Test_OOP.genruntimeconfig.cache

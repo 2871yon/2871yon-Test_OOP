@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XW0jeNyA6Uc88qs+kj9pwASYqPN+RocujzOY1RFtfH0xmCj9pcbBeraxvNTGJlljmooXGew4rqzwB42VCq4h/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\משתמש\\Documents\\0000ציונט\\Test_OOP\\Test_OOP\\Test_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
